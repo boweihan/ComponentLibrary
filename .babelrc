@@ -1,3 +1,4 @@
 {
-  "presets": ["es2015", "react"]
+  "presets": ["es2017", "react"], // es2017 baby!
+  "plugins": ["transform-class-properties"] /* needed to assign variables in a class without bind() */
 }
