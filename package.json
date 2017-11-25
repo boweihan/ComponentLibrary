@@ -49,5 +49,6 @@
     "react-dom": "^16.1.1",
     "styled-components": "^2.2.3",
     "webfontloader": "^1.6.28"
-  }
+  },
+  "dependencies": {}
 }

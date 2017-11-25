@@ -9,3 +9,7 @@ TODO:
 - Adding logic via props into components - i.e. button onpress, should already work tbh
 - Unit tests and tests before build, need to unit test any logic in the components (JEST)
 - Set up storybook for viewing components and independent component development - https://codeburst.io/build-your-own-react-component-library-with-lerna-and-storybook-53298b186760
+
+NOTE:
+With fonts, we are simply appending classnames. It is the responsibility of the hosting application
+to ensure that the font libraries are loaded properly.
